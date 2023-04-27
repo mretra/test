@@ -1,3 +1,3 @@
 # Hello, world!
 
-Netology project.
+Я учусь в Нетологии
